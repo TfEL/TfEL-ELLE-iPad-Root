@@ -1,6 +1,7 @@
 ## Teaching for Effective Learning in Department for Education and Child Development iPad Configuration
 ### Effective Lifelong Learning Inventory School Survey iPads
 
+For more information on the TfELLE iPad Programme [click here](https://github.com/aidancornelius/TfEL-ELLE-iPad-Root/wiki/Summary).
 
 #### 01: What is this, I don't even?
 This repository contains a copy of the enterprise distribution app (source & IPA) and related configuration for id and restrictions on the TfEl iPads @ DECD.
